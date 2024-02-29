@@ -2,7 +2,7 @@ repo_name: epoch-chrono/helm-chart
 report_id: 755a8c437f316fec297df09bad990da5
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T13:20:01+00:00'
+timestamp: '2024-02-29T19:46:11+00:00'
 requested_by: epoch-chrono
 provider: github
 branch: master
